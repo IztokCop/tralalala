@@ -1,12 +1,18 @@
 devops - kombinacia praktik a toolov ktoreho hlavnym cielom je zefektivnenie vyvoja a nasadzovania aplikacii
 pre mna je to hlavne o automatizacii,  spolupraci s inymi ludmi a nejake neustale vzdelavanie 
-DevOps is a set of practices and cultural philosophies that aim to automate and streamline the software delivery process, fostering collaboration between development and operations teams.
 
+mindset -  It's about having the right attitude, like being a team player, embracing change, and wanting to automate tasks to make work easier.
+           je to o tom mat k tej praci nejaky spravny prisutp, pracovat s kolegami, nebat sa zmien, a chcenie automatizovat co sa da
+           
+culture -  This is like the environment or atmosphere in your workplace. It's about having a work culture where people collaborate well, share responsibilities, and always try to do things better.
+           prostredie alebo atmosfera v praci. ludia spolu spolupracuju, zdieaju zodpovednosti a skusaju robit veci lepsie
 Continuous Integration: CI je súbor postupov, ktorý zabezpečuje, že integrácia zmien do kódu do produkčnej verzie je plynulá, rýchla a automatizovaná. Kľúčom k úspešnej CI sú:
         Použitie systému na správu verzii ako je Git.
         Písanie kvalitných testov, ktoré overujú funkcionalitu kódu.
         Písanie dokumentácie, aby bolo jasné, čo kód robí a prečo.
         Rozdelenie veľkých problémov na menšie, ľahšie spravovateľné časti.
+        
+Agile je spôsob práce, pri ktorom tímy pracujú spolu flexibilne, rýchlo a komunikujú s cieľom ľahko sa prispôsobiť zmenám. Namiesto dlhých a plánovaných projektov sa práca rozdeľuje do krátkych období, kde výsledok je pravidelne overovaný a prispôsobovaný podľa potrieb. Agile zameriava na to, ako tím pracuje spolu a ako rýchlo a efektívne dokáže reagovať na zmeny požiadaviek.
 
 Continuous Delivery: Tento proces zahŕňa dodatočné kroky po CI, ako je automatizované nasadenie kódu na staging prostredie, 
     kde môže byť kód ďalej testovaný v podmienkach podobných produkčnému prostrediu, ale ešte nie je priamo v prevádzke. 
